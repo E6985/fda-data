@@ -1,27 +1,62 @@
-< [GMIT Data Analytics](https://web.archive.org/web/20201029063153/https://www.gmit.ie/computer-science-and-applied-physics/higher-diploma-science-computing-data-analytics-ict) | [Table of Contents](https://github.com/E6985) | [README](https://github.com/E6985/fda-data/blob/main/README.md) >
+< [GMIT Data Analytics](https://web.archive.org/web/20201029063153/https://www.gmit.ie/computer-science-and-applied-physics/higher-diploma-science-computing-data-analytics-ict) | [Home](https://github.com/E6985) | [README](https://github.com/E6985/fda-data/blob/main/README.md) >
 
-![GMIT](https://github.com/E6985/pda-numpy-random/blob/main/img/gmit.png?raw=true)
+[![GMIT](https://github.com/E6985/E6985/blob/master/img/gmit.png?raw=true)](https://web.archive.org/web/20201029063153/https://www.gmit.ie/computer-science-and-applied-physics/higher-diploma-science-computing-data-analytics-ict)
 
 ## Fundamentals of Data Analysis - Course Material 2020
 ### Topic: [Data](https://nbviewer.jupyter.org/github/E6985/fda-data/blob/main/fda-data.ipynb)
 
 Course material for the ``Fundamentals of Data Analysis`` module (5 Credits) of the ``Higher Diploma in Science in Computing (Data Analytics) (H.Dip)`` programme (75 Credits) at **Galway-Mayo Institute of Technology (GMIT)**.
 
-[Abstract](https://nbviewer.jupyter.org/github/E6985/fda-data/blob/main/fda-data.ipynb#abstract)
+## Learning Outcomes
 
-###### Keywords: SPSS; scale; ordinal; nominal
+The aim of the module is to provide the ability able to [1]:
 
-[Introduction](https://nbviewer.jupyter.org/github/E6985/fda-data/blob/main/fda-data.ipynb#introduction)
+1. Source and investigate sets of data.
 
-###### Keywords: On the Theory of Scales of Measurement; quantitative; model; measurement
+2. Programmatically explore and visualise data.
 
-[Solution](https://nbviewer.jupyter.org/github/E6985/fda-data/blob/main/fda-data.ipynb#solution)
+3. Apply basic mathematical data analysis techniques to data sets.
 
-###### Keywords: inappropriate techniques; likert scale; numbers; average;  linear scale; measurement; category; nominal; ordinal; interval; ratio
+4. Write programs to automate basic data analysis techniques.
 
-[Conclusion](https://nbviewer.jupyter.org/github/E6985/fda-data/blob/main/fda-data.ipynb#conclusion)
+An introduction to the fundamentals of data analysis, including the acquisition, cleaning and exploration of data sets.
 
-###### Keywords: imperfect model; humans honest
+## Topic Roadmap
+
+- A look at the paper On the Theory of Scales of Measurement by S. S. Stevens and the relationship with SPSS.
+
+- The kinds, types, and formats of data we experience. 
+
+<a id="top"></a>
+## Table of Contents
+
+## [Abstract](https://nbviewer.jupyter.org/github/E6985/fda-data/blob/main/fda-data.ipynb#abstract)
+<!--
+###### Keywords: SPSS; scale; ordinal; nominal -->
+
+## [Introduction](https://nbviewer.jupyter.org/github/E6985/fda-data/blob/main/fda-data.ipynb#introduction)
+<!--
+###### Keywords: On the Theory of Scales of Measurement; quantitative; model; measurement -->
+
+## [Solution](https://nbviewer.jupyter.org/github/E6985/fda-data/blob/main/fda-data.ipynb#solution)
+<!--
+###### Keywords: inappropriate techniques; likert scale; numbers; average;  linear scale; measurement; category; nominal; ordinal; interval; ratio -->
+
+## [Conclusion](https://nbviewer.jupyter.org/github/E6985/fda-data/blob/main/fda-data.ipynb#conclusion)
+<!--
+###### Keywords: imperfect model; humans honest -->
+<!--
+###### Keywords: -->
+<!--
+## Development
+
+###### Built-in:
+
+###### (A) Standard Library (a_S_tandard_L_ibrary-imports):
+
+###### (B) Third Party Library (b_T_hird_P_arty-imports):
+
+###### (C) Local Application (c_L_ocal_A_pplication-imports): -->
 
 ## Getting Started
 - Keeping in mind: i) GMIT assignment/project submission marking scheme; and ii) impression given to someone who is looking at this repository, endeavour to provide direct evidence of each of the items listed in each category where applicable - ``Research`` - ``Development`` - ``Consistency`` - ``Documentation``:
@@ -36,7 +71,7 @@ Course material for the ``Fundamentals of Data Analysis`` module (5 Credits) of 
 
 	- Demonstrating work complete with appropriate references and not just for the problem but for level of understanding of the problem.
 
-	- Code commentary will include details of package, module, object (if applicable) to demonstrate understanding of software documentation and libraries used.
+	- Code commentary will include details of package, module, object (if applicable) to demonstrate understanding of software documentation and libraries used. Enhancements to completed GMIT projects/assignments for self-examination and preparation for future modules of the H.Dip programme/self-education will not include this detail.
 
 ```python
 # b_T_hird_P_arty-imports
@@ -79,10 +114,17 @@ plot(x,y)
 
 - Jupyter Notebook text formatting/presentation to be tidied up closer to the deadline (if applicable).
 
-<a id="coding-conventsions"></a>
-## Coding Conventions
+<!--## Coding Conventions
 
-- Not Applicable
+- variable/name - functions - start with letters as follows
+
+| Example       | Signify 		          |
+| ------------- |:-----------------------:|
+|	f        	|	user-defined function |
+
+| Example       | Signify 		          |
+| ------------- |:-----------------------:|
+|	n        	|	name - no variables   |-->
 
 ## Prerequisites
 
