@@ -1,9 +1,9 @@
-< [GMIT Data Analytics](https://web.archive.org/web/20201029063153/https://www.gmit.ie/computer-science-and-applied-physics/higher-diploma-science-computing-data-analytics-ict) | [Home](https://github.com/E6985) | [README](https://github.com/E6985/fda-data/blob/main/README.md) >
+< [GMIT Data Analytics](https://web.archive.org/web/20201029063153/https://www.gmit.ie/computer-science-and-applied-physics/higher-diploma-science-computing-data-analytics-ict) | [Home](https://github.com/SeanOhAileasa) | [README](https://github.com/SeanOhAileasa/fda-data/blob/main/README.md) >
 
-[![GMIT](https://github.com/E6985/E6985/blob/master/img/gmit.png?raw=true)](https://web.archive.org/web/20201029063153/https://www.gmit.ie/computer-science-and-applied-physics/higher-diploma-science-computing-data-analytics-ict)
+[![GMIT](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/gmit.png?raw=true)](https://web.archive.org/web/20201029063153/https://www.gmit.ie/computer-science-and-applied-physics/higher-diploma-science-computing-data-analytics-ict)
 
 ## Fundamentals of Data Analysis - Course Material 2020
-### Topic: [Data](https://nbviewer.jupyter.org/github/E6985/fda-data/blob/main/fda-data.ipynb)
+### Topic: [Data](https://nbviewer.jupyter.org/github/SeanOhAileasa/fda-data/blob/main/fda-data.ipynb)
 
 Course material for the ``Fundamentals of Data Analysis`` module (5 Credits) of the ``Higher Diploma in Science in Computing (Data Analytics) (H.Dip)`` programme (75 Credits) at **Galway-Mayo Institute of Technology (GMIT)**.
 
@@ -26,37 +26,6 @@ An introduction to the fundamentals of data analysis, including the acquisition,
 - A look at the paper On the Theory of Scales of Measurement by S. S. Stevens and the relationship with SPSS.
 
 - The kinds, types, and formats of data we experience. 
-
-<a id="top"></a>
-## Table of Contents
-
-## [Abstract](https://nbviewer.jupyter.org/github/E6985/fda-data/blob/main/fda-data.ipynb#abstract)
-<!--
-###### Keywords: SPSS; scale; ordinal; nominal -->
-
-## [Introduction](https://nbviewer.jupyter.org/github/E6985/fda-data/blob/main/fda-data.ipynb#introduction)
-<!--
-###### Keywords: On the Theory of Scales of Measurement; quantitative; model; measurement -->
-
-## [Solution](https://nbviewer.jupyter.org/github/E6985/fda-data/blob/main/fda-data.ipynb#solution)
-<!--
-###### Keywords: inappropriate techniques; likert scale; numbers; average;  linear scale; measurement; category; nominal; ordinal; interval; ratio -->
-
-## [Conclusion](https://nbviewer.jupyter.org/github/E6985/fda-data/blob/main/fda-data.ipynb#conclusion)
-<!--
-###### Keywords: imperfect model; humans honest -->
-<!--
-###### Keywords: -->
-<!--
-## Development
-
-###### Built-in:
-
-###### (A) Standard Library (a_S_tandard_L_ibrary-imports):
-
-###### (B) Third Party Library (b_T_hird_P_arty-imports):
-
-###### (C) Local Application (c_L_ocal_A_pplication-imports): -->
 
 ## Getting Started
 - Keeping in mind: i) GMIT assignment/project submission marking scheme; and ii) impression given to someone who is looking at this repository, endeavour to provide direct evidence of each of the items listed in each category where applicable - ``Research`` - ``Development`` - ``Consistency`` - ``Documentation``:
@@ -138,7 +107,7 @@ https://www.anaconda.com/download/
 
 	- Clone the repository with the following command:
 
-	``git clone https://github.com/E6985/fda-data.git``
+	``git clone https://github.com/SeanOhAileasa/fda-data.git``
 
     - Run Jupyter Notebooks from the command line with the following:
 
@@ -150,6 +119,6 @@ https://www.anaconda.com/download/
 
 	- ***Notebook links will not work on github given that github renders as static HTML - also not able to view equation tag numbers. Please run on a local machine or use nbviewer (see below).***
 
-- An alternative to downloading and running on a local machine with all features included (links/equation tag number etc) can view via [nbviewer](https://nbviewer.jupyter.org/github/E6985/fda-data/blob/main/fda-data.ipynb).
+- An alternative to downloading and running on a local machine with all features included (links/equation tag number etc) can view via [nbviewer](https://nbviewer.jupyter.org/github/SeanOhAileasa/fda-data/blob/main/fda-data.ipynb).
 
 ## END
